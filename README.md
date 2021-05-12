@@ -1,7 +1,7 @@
 # VE216 Signals & Systems - Recitation Class
 Recitation class lecture notes for VE216.
 
-Created and used by ZHU Yilun in Summer 2020.
+Created and used by Teaching Assistant ZHU Yilun in Summer 2020.
 
 # Details
 VE216 is a sophomore-level course for ECE major in UM-SJTU Joint Institute. It is an introductory (and important) course for signal processing.

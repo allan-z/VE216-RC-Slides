@@ -20,4 +20,4 @@ I graduated from SJTU in Summer 2020. I am glad to release my RC notes for futur
 
 If you were to use/modify/redistribute my slides, please give credit, by adding "Based on RC Notes by ZHU Yilun" in the first page of the slides. (It would be better if you let me know, e.g., via email.)
 
-I would be more than delighted to hear from anyone who finds the slides useful. Feel free to send an email to **allanyilun[at]outlook[dot]com**, tell me about how you gonna use the slides, places where I made typo and how I could improve.
+I would be more than delighted to hear from anyone who finds the slides useful. Feel free to send an email to **allanyilun[at]outlook[dot]com**, tell me about how you gonna use the slides, places where I made typos and how I could improve.

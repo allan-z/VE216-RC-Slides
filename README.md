@@ -4,12 +4,12 @@ Recitation class lecture notes for VE216.
 Created and used by ZHU Yilun in Summer 2020.
 
 # Details
-This is a sophomore-level course for ECE major in UM-SJTU Joint Institute. It is an introductory (and important) for signal processing.
+VE216 is a sophomore-level course for ECE major in UM-SJTU Joint Institute. It is an introductory (and important) course for signal processing.
 
 This repository contains 10 RC slides:
 
-- RC 3 & 4: ``Handwritten'' notes using **Bamboo Paper** app in Microsoft Surface Pro. (I choose to have them handwritten because there are quite a few mathematical derivation involved.)
-- Others: generated from Latex (all the source files are contained) 
+- RC 3 & 4: Purely ``handwritten'' notes using **Bamboo Paper** app in Microsoft Surface Pro. (I choose to have them handwritten because there are quite a few mathematical derivation involved.)
+- Others: generated from Latex (all the source files are contained); I make handwritten notes on the Latex-generated slides, saved as xxx_withNotes.pdf
 
 The content for RC follows from the lecture given by **Prof. Yong Long**. Some exercises were selected from homework and quizzes. Some screenshots were taken from **Prof. Alan V. Oppenheim's** (well-known) lecture slides.
 

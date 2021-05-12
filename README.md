@@ -13,7 +13,7 @@ This repository contains 10 RC slides:
 
 The content for RC follows from the lecture given by **Prof. Yong Long**. Some exercises were selected from homework and quizzes. Some screenshots were taken from **Prof. Alan V. Oppenheim's** (well-known) lecture slides.
 
-It is possible that some other professor in JI use different materials for this course (e.g., starting with discrete signals).
+It is possible that some other professors in JI use different materials for this course (e.g., starting with discrete signals).
 
 # Notice for Other Users
 I graduated from SJTU in Summer 2020. I am glad to release my RC notes for future TAs (who are preparing for RCs) and students (who are looking for course-related materials).
